@@ -16,10 +16,8 @@ The initial state is set to `user`.
 		* Reply: "E-mail please"
 			* Input: E-mail
 				* Reply:"Is E-Mail correct ?"
-					* Input: "yes"
-						*Reply:"Send to E-mail"
-					* Input: "no"
-						*Reply:"E-mail please"
+					* Input: "yes" Reply:"Send to E-mail"
+					* Input: "no"  Reply:"E-mail please"
 	
 	* Input: "resend"
 		*Reply:"Resnd to E-mail"
