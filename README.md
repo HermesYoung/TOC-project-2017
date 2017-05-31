@@ -10,7 +10,9 @@ The initial state is set to `user`.
 
 * user
 	* Input: "hi" or "hello"
-		* Reply: "Hello\n to get  a Verification Code enter : get Code\nto resend enter :resend"
+		* Reply: "Hello
+		to get  a Verification Code enter : get Code
+		to resend enter :resend"
 
 	* Input: "get code"
 		* Reply: "E-mail please"
